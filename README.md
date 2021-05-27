@@ -1,8 +1,32 @@
-# Спринт 12. Проектная работа "Mesto. Russia."
-## Двенадцатая проектная работа на курсе Яндекс.Практикума "Веб-разработчик"
+# React project "Mesto. Russia." (with auth)
 
-Инстаграм-лайк страница абстрактной социальной сети.
+Instagram like page of abstract social network. Implementation on **React**. 
+Project work on the learning course Yandex.Praktikum "Web developer" 
 
-Работа выполнена с использованием *React*, *HTML5*, *CSS3*, *Javascript*.
-Вёрстка адаптивная, респонзивная, использованы технологии *flexbox*, *grid layout*,.
-Применена технология БЭМ. Файлы организованы в соответствии с Nested BEM.
+The work was done using **React**, **JSX**, **Javascript**.
+The layout is adaptive, responsive, **flexbox** and **grid layout** 
+technologies are used.
+**BEM** technology is applied. The files are organized according to **Nested 
+BEM**. 
+Authorization, API requests, form validation.
+
+## Installing on a local machine 
+    ```
+    $ npm install
+    ```
+## Run app
+    ```
+    $ npm run start
+    ```
+
+## Build app
+    ```
+    $ npm run build
+    ```
+
+## Deploy on gh-pages
+    ```
+    $ npm run deploy
+    ```
+
+https://koshelevd.github.io/mesto-react-auth/
