@@ -28,5 +28,3 @@ Authorization, API requests, form validation.
     ```
     $ npm run deploy
     ```
-
-https://koshelevd.github.io/mesto-react-auth/
